@@ -1,0 +1,6 @@
+{
+  statusCode: 401,
+  success: false,
+  message: 'Unauthorized Access',
+  errors: []
+}

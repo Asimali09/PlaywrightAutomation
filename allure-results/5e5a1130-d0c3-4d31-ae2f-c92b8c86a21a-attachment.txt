@@ -1,0 +1,15 @@
+Status: 200
+Response: {
+  statusCode: 200,
+  data: {
+    _id: '6a9527ce1c1ac490997bb7f2',
+    username: 'asimali01',
+    email: 'asimali@gmail.com',
+    fullname: 'Asim Ali',
+    createdAt: '2026-08-31T07:05:50.312Z',
+    updatedAt: '2026-08-31T07:06:34.790Z',
+    __v: 0
+  },
+  message: 'Current user fetched successfully',
+  success: true
+}

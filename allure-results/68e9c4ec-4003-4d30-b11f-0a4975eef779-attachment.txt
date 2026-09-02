@@ -1,0 +1,18 @@
+{
+  statusCode: 200,
+  data: {
+    user: {
+      _id: '6a9527ce1c1ac490997bb7f2',
+      username: 'asimali01',
+      email: 'asimali@gmail.com',
+      fullname: 'Asim Ali',
+      createdAt: '2026-08-31T07:05:50.312Z',
+      updatedAt: '2026-08-31T07:06:06.479Z',
+      __v: 0
+    },
+    accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk1MjdjZTFjMWFjNDkwOTk3YmI3ZjIiLCJlbWFpbCI6ImFzaW1hbGlAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSIsImlhdCI6MTc4ODE1OTk2NiwiZXhwIjoxNzg4MjQ2MzY2fQ.rbCuWU1nJ_XbZumaahY7k8JMOIk17XFUBX84zb2XJKI',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk1MjdjZTFjMWFjNDkwOTk3YmI3ZjIiLCJlbWFpbCI6ImFzaW1hbGlAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSIsImlhdCI6MTc4ODE1OTk2NiwiZXhwIjoxNzg5MDIzOTY2fQ.Qp_12RYq-QIoThy1EWeIQpwsAprsTMCSBzW4dIiq0J0'
+  },
+  message: 'User Logged in successfully',
+  success: true
+}

@@ -1,0 +1,7 @@
+Status: 500
+Response: {
+  statusCode: 500,
+  success: false,
+  message: "Cannot destructure property 'fullname' of 'req.body' as it is undefined.",
+  errors: []
+}

@@ -1,0 +1,35 @@
+Login Status: 200
+Login Response: {
+  statusCode: 200,
+  data: {
+    user: {
+      _id: '6a953214c6349bb44fd16799',
+      username: 'asimali_updated12',
+      email: 'asimali_updated1@gmail.com',
+      fullname: 'Asim Ali Updated1',
+      createdAt: '2026-08-31T07:49:40.243Z',
+      updatedAt: '2026-08-31T07:56:08.495Z',
+      __v: 0
+    },
+    accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk1MzIxNGM2MzQ5YmI0NGZkMTY3OTkiLCJlbWFpbCI6ImFzaW1hbGlfdXBkYXRlZDFAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSBVcGRhdGVkMSIsImlhdCI6MTc4ODE2Mjk2OCwiZXhwIjoxNzg4MjQ5MzY4fQ.yUFFny7wd2bX-QtANUUDL8qtJqYgj3pe3lHfguIsras',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk1MzIxNGM2MzQ5YmI0NGZkMTY3OTkiLCJlbWFpbCI6ImFzaW1hbGlfdXBkYXRlZDFAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSBVcGRhdGVkMSIsImlhdCI6MTc4ODE2Mjk2OCwiZXhwIjoxNzg5MDI2OTY4fQ.LXAMR1xa3NiCKI-aDOHN_TE3qYXbxFz_TaORxctZTBI'
+  },
+  message: 'User Logged in successfully',
+  success: true
+}
+Update Status: 200
+Update Response: {
+  statusCode: 200,
+  data: {
+    _id: '6a953214c6349bb44fd16799',
+    username: 'asimali_updated12322',
+    email: 'asimali_updated4@gmail.com',
+    fullname: 'Asim Ali Updated54',
+    createdAt: '2026-08-31T07:49:40.243Z',
+    updatedAt: '2026-08-31T07:56:09.412Z',
+    __v: 0,
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk1MzIxNGM2MzQ5YmI0NGZkMTY3OTkiLCJlbWFpbCI6ImFzaW1hbGlfdXBkYXRlZDFAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSBVcGRhdGVkMSIsImlhdCI6MTc4ODE2Mjk2OCwiZXhwIjoxNzg5MDI2OTY4fQ.LXAMR1xa3NiCKI-aDOHN_TE3qYXbxFz_TaORxctZTBI'
+  },
+  message: 'User details replaced successfully',
+  success: true
+}

@@ -1,0 +1,78 @@
+Register Status: 201
+Register Response: {"statusCode":201,"data":{"_id":"6a96d8a70667707ef837201a","username":"asimali1788270758667","email":"asimali1788270758667@gmail.com","fullname":"Asim Ali","createdAt":"2026-09-01T13:52:39.917Z","updatedAt":"2026-09-01T13:52:39.917Z","__v":0},"message":"User registered Successfully","success":true}
+Login Status: 200
+Login Response: {
+  statusCode: 200,
+  data: {
+    user: {
+      _id: '6a96d8a70667707ef837201a',
+      username: 'asimali1788270758667',
+      email: 'asimali1788270758667@gmail.com',
+      fullname: 'Asim Ali',
+      createdAt: '2026-09-01T13:52:39.917Z',
+      updatedAt: '2026-09-01T13:52:41.171Z',
+      __v: 0
+    },
+    accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk2ZDhhNzA2Njc3MDdlZjgzNzIwMWEiLCJlbWFpbCI6ImFzaW1hbGkxNzg4MjcwNzU4NjY3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiQXNpbSBBbGkiLCJpYXQiOjE3ODgyNzA3NjEsImV4cCI6MTc4ODM1NzE2MX0.1xZGTZzYIqYW0iDlqNrlL5aVr5ftjR8XYIXhtnx8uuo',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk2ZDhhNzA2Njc3MDdlZjgzNzIwMWEiLCJlbWFpbCI6ImFzaW1hbGkxNzg4MjcwNzU4NjY3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiQXNpbSBBbGkiLCJpYXQiOjE3ODgyNzA3NjEsImV4cCI6MTc4OTEzNDc2MX0.Ub3EFtD7UkrHqioq0ppFKTOfNr91ljFFTmEOWMpAYJg'
+  },
+  message: 'User Logged in successfully',
+  success: true
+}
+Get Status: 200
+Get Response: {
+  statusCode: 200,
+  data: {
+    _id: '6a96d8a70667707ef837201a',
+    username: 'asimali1788270758667',
+    email: 'asimali1788270758667@gmail.com',
+    fullname: 'Asim Ali',
+    createdAt: '2026-09-01T13:52:39.917Z',
+    updatedAt: '2026-09-01T13:52:41.171Z',
+    __v: 0
+  },
+  message: 'Current user fetched successfully',
+  success: true
+}
+Update Status: 200
+Update Response: {
+  statusCode: 200,
+  data: {
+    _id: '6a96d8a70667707ef837201a',
+    username: 'asimali_updated1788270758667',
+    email: 'asimali_updated1788270758667@gmail.com',
+    fullname: 'Asim Ali Updated',
+    createdAt: '2026-09-01T13:52:39.917Z',
+    updatedAt: '2026-09-01T13:52:42.555Z',
+    __v: 0,
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk2ZDhhNzA2Njc3MDdlZjgzNzIwMWEiLCJlbWFpbCI6ImFzaW1hbGkxNzg4MjcwNzU4NjY3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiQXNpbSBBbGkiLCJpYXQiOjE3ODgyNzA3NjEsImV4cCI6MTc4OTEzNDc2MX0.Ub3EFtD7UkrHqioq0ppFKTOfNr91ljFFTmEOWMpAYJg'
+  },
+  message: 'User details replaced successfully',
+  success: true
+}
+Updated Login Status: 200
+Updated Login Response: {
+  statusCode: 200,
+  data: {
+    user: {
+      _id: '6a96d8a70667707ef837201a',
+      username: 'asimali_updated1788270758667',
+      email: 'asimali_updated1788270758667@gmail.com',
+      fullname: 'Asim Ali Updated',
+      createdAt: '2026-09-01T13:52:39.917Z',
+      updatedAt: '2026-09-01T13:52:43.516Z',
+      __v: 0
+    },
+    accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk2ZDhhNzA2Njc3MDdlZjgzNzIwMWEiLCJlbWFpbCI6ImFzaW1hbGlfdXBkYXRlZDE3ODgyNzA3NTg2NjdAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSBVcGRhdGVkIiwiaWF0IjoxNzg4MjcwNzYzLCJleHAiOjE3ODgzNTcxNjN9.bm8_fJ6fN6w_1t3nrSrt-xv8nlZQXl8WP-v7BQPpWi0',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk2ZDhhNzA2Njc3MDdlZjgzNzIwMWEiLCJlbWFpbCI6ImFzaW1hbGlfdXBkYXRlZDE3ODgyNzA3NTg2NjdAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSBVcGRhdGVkIiwiaWF0IjoxNzg4MjcwNzYzLCJleHAiOjE3ODkxMzQ3NjN9.GrMzaiiZIq-eimFazm9gi1vYtBpIMg_zjIKf6itfEPk'
+  },
+  message: 'User Logged in successfully',
+  success: true
+}
+Delete Status: 200
+Delete Response: {
+  statusCode: 200,
+  data: {},
+  message: 'User account deleted successfully',
+  success: true
+}

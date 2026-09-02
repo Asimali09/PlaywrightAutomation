@@ -1,0 +1,26 @@
+Login Status: 200
+Login Response: {
+  statusCode: 200,
+  data: {
+    user: {
+      _id: '6a953214c6349bb44fd16799',
+      username: 'asimali01',
+      email: 'asimali@gmail.com',
+      fullname: 'Asim Ali',
+      createdAt: '2026-08-31T07:49:40.243Z',
+      updatedAt: '2026-08-31T07:50:43.027Z',
+      __v: 0
+    },
+    accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk1MzIxNGM2MzQ5YmI0NGZkMTY3OTkiLCJlbWFpbCI6ImFzaW1hbGlAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSIsImlhdCI6MTc4ODE2MjY0MywiZXhwIjoxNzg4MjQ5MDQzfQ.yOBEMs92PRV0T8TJpdki_MVM9o4uUeY-UU3eai7jl_g',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTk1MzIxNGM2MzQ5YmI0NGZkMTY3OTkiLCJlbWFpbCI6ImFzaW1hbGlAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBc2ltIEFsaSIsImlhdCI6MTc4ODE2MjY0MywiZXhwIjoxNzg5MDI2NjQzfQ.M_VLm57xcXhIRq0Sm54f68LsJskivA_JSBHuHjjRe10'
+  },
+  message: 'User Logged in successfully',
+  success: true
+}
+Update Status: 400
+Update Response: {
+  statusCode: 400,
+  success: false,
+  message: 'Duplicate username entered',
+  errors: []
+}

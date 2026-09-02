@@ -1,0 +1,7 @@
+Status: 401
+Response: {
+  statusCode: 401,
+  success: false,
+  message: 'jwt malformed',
+  errors: []
+}
