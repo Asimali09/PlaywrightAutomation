@@ -1,0 +1,16 @@
+Update Status: 200
+Update Response: {
+  statusCode: 200,
+  data: {
+    _id: '6a9a71063757f747feb2e965',
+    username: 'asimaliupdated1788506373282',
+    email: 'asimaliupdated1788506373282@gmail.com',
+    fullname: 'Asim Ali Updated',
+    createdAt: '2026-09-04T07:19:34.022Z',
+    updatedAt: '2026-09-04T07:19:36.698Z',
+    __v: 0,
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTlhNzEwNjM3NTdmNzQ3ZmViMmU5NjUiLCJlbWFpbCI6ImFzaW1hbGkxNzg4NTA2MzcwMjMzQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiQXNpbSBBbGkiLCJpYXQiOjE3ODg1MDYzNzUsImV4cCI6MTc4OTM3MDM3NX0.frILJ9hsIVBjKoXMdjTIxaw62LRD8h4sP0y6Mgh4I84'
+  },
+  message: 'User details replaced successfully',
+  success: true
+}
