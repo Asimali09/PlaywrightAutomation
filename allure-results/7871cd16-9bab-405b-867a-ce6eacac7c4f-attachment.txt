@@ -1,0 +1,2 @@
+Register Status: 201
+Register Response: {"statusCode":201,"data":{"_id":"6aaaa487bd572b4eb7f4cd60","username":"asimali1789568118935","email":"asimali1789568118935@gmail.com","fullname":"Asim Ali","createdAt":"2026-09-16T14:15:35.554Z","updatedAt":"2026-09-16T14:15:35.554Z","__v":0},"message":"User registered Successfully","success":true}

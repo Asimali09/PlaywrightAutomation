@@ -1,0 +1,19 @@
+Login Status: 200
+Login Response: {
+  statusCode: 200,
+  data: {
+    user: {
+      _id: '6aaaa487bd572b4eb7f4cd60',
+      username: 'asimali1789568118935',
+      email: 'asimali1789568118935@gmail.com',
+      fullname: 'Asim Ali',
+      createdAt: '2026-09-16T14:15:35.554Z',
+      updatedAt: '2026-09-16T14:15:36.821Z',
+      __v: 0
+    },
+    accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YWFhYTQ4N2JkNTcyYjRlYjdmNGNkNjAiLCJlbWFpbCI6ImFzaW1hbGkxNzg5NTY4MTE4OTM1QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiQXNpbSBBbGkiLCJpYXQiOjE3ODk1NjgxMzYsImV4cCI6MTc4OTY1NDUzNn0.-8sDZOKWLynwZ6qSThESQ1pz5Pws_pfOrz57skB2gNo',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YWFhYTQ4N2JkNTcyYjRlYjdmNGNkNjAiLCJlbWFpbCI6ImFzaW1hbGkxNzg5NTY4MTE4OTM1QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiQXNpbSBBbGkiLCJpYXQiOjE3ODk1NjgxMzYsImV4cCI6MTc5MDQzMjEzNn0.llKq2viRqTALPPHdI67J-wLI9emVvMsGn8WqyRlzT8M'
+  },
+  message: 'User Logged in successfully',
+  success: true
+}
